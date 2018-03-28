@@ -1,0 +1,1521 @@
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 353, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 353, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 353, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 353, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+requests.packages.urllib3.exceptions.ProtocolError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295539697313309/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295539697313309/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295529824062706/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295529824062706/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295528983799998/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295528983799998/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x037997D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295516746284638/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x037997D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295516746284638/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x037997D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on like!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295481270854250/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 571, in like
+    like = self.s.post(url_likes)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/likes/1739295481270854250/like/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03799C90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 357, in get_media_id_by_tag
+    r = self.s.get(url_tag)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 358, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 358, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:get_media_id_by_tag
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 358, in get_media_id_by_tag
+    all_data = json.loads(r.text)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 375, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 390, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 390, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 851, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Logout error!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 386, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 382, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+requests.packages.urllib3.exceptions.ProtocolError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 248, in logout
+    logout = self.s.post(self.url_logout, data=logout_post)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1025, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1030, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1030, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1032, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1047, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1048, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1052, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1028, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1034, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1034, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on unfollow... Looks like a network error
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EF090>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/friendships/206073949/unfollow/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EF090>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 838, in unfollow_on_cleanup
+    unfollow = self.s.post(url_unfollow)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /web/friendships/206073949/unfollow/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EF090>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Logout error!
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EFDB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 423, in send
+    timeout=timeout
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\packages\urllib3\util\retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /accounts/logout/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EFDB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 514, in logout
+    logout = self.s.post(self.url_logout, data=logout_post)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 535, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Cyberjinmics\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /accounts/logout/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x004EFDB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    url_tag = self.url_user_detail % current_user
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    url_tag = self.url_user_detail % current_user
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    url_tag = self.url_user_detail % current_user
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1036, in auto_unfollow
+    url_tag = self.url_user_detail % current_user
+KeyError: 'user'
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on comment!
+Traceback (most recent call last):
+  File "D:\master\src\newAccount.py", line 441, in comment
+    log_string = 'Write: "%s". #%i.' % (comment_text)
+TypeError: not enough arguments for format string
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
+ERROR:root:Except on auto_unfollow!
+Traceback (most recent call last):
+  File "D:\master\src\instabot.py", line 1041, in auto_unfollow
+    user_info = all_data['user']
+KeyError: 'user'
